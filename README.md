@@ -1,7 +1,7 @@
 # Symfony-page
 
 ## Description
-Symfony-page is a page i've done with Symfony. It has a registration implemented and you can write posts.
+Symfony-page is a page I've done with Symfony. It has a registration implemented and you can write posts.
 
 ## Technologies used
 Html, CSS, php, Symfony, Twig
